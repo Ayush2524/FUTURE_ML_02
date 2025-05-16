@@ -32,11 +32,10 @@ features.csv → external data (e.g. temperature, fuel price, CPI)
 ➤ Handling Negative or Zero Weekly Sales
 
 🎉 5. Holiday Analysis
+
 Similar for 
 Labor Day
-
 Thanksgiving
-
 Christmas and visualization using sns.barplot
 
 🏪 6. Store Type Analysis
