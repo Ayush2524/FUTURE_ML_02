@@ -1,5 +1,4 @@
-# FUTURE_ML_02
-Sales Forecasting for Retail Business
+#Sales Forecasting for Retail Business
 
 📌 1. Importing Libraries
 The notebook starts by importing a broad set of libraries:
